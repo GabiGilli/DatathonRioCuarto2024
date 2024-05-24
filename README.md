@@ -34,7 +34,7 @@ Impacto y Relevancia: Analizaremos el valor y la relevancia de los insights pres
 Originalidad y Creatividad: Tendrá como foco el uso innovador de características de Power BI y la creatividad en el diseño y la presentación de los datos.
 Interactividad: Observa la interactividad del informe, como filtros, segmentación, etc.
 
-### [Link al tablero]https://app.powerbi.com/view?r=eyJrIjoiOWNiYjAyZjAtZTQ2Ni00ZDIwLThlYzYtMmM0ZmVjMGRkYTY1IiwidCI6ImJlNjNiYWNjLWQxZjUtNDgyNS05ZmFmLWQ1Njk5NWRiOTk4OCIsImMiOjR9
+### ![Link al tablero]https://app.powerbi.com/view?r=eyJrIjoiOWNiYjAyZjAtZTQ2Ni00ZDIwLThlYzYtMmM0ZmVjMGRkYTY1IiwidCI6ImJlNjNiYWNjLWQxZjUtNDgyNS05ZmFmLWQ1Njk5NWRiOTk4OCIsImMiOjR9
 
 ## Dashboard 🏆🎖
 
