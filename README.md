@@ -4,6 +4,8 @@
 ## SkillSet
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269](https://github.com/GabiGilli/DatathonRioCuarto2024/assets/110350474/351ad1b1-69c0-4304-8653-03f5507f6c35)
 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 ## Información acerca del evento y desafío 2
 
 Introducción al Desafío de Power BI: Abordando el Bullying Escolar
