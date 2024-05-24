@@ -42,7 +42,7 @@ Interactividad: Observa la interactividad del informe, como filtros, segmentaci�
 ### Análisis geográfico local
 ![image](https://github.com/GabiGilli/DatathonRioCuarto2024/assets/110350474/c0e949e6-41d2-4b3d-98f6-368b24dd7015)
 
-Análisis nacional
+### Análisis nacional
 ![image](https://github.com/GabiGilli/DatathonRioCuarto2024/assets/110350474/f4b81925-a1d8-4e9f-b931-79edfd03fc16)
 
 
