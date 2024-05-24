@@ -1,8 +1,8 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269](https://github.com/GabiGilli/DatathonRioCuarto2024/assets/110350474/351ad1b1-69c0-4304-8653-03f5507f6c35)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269](https://github.com/GabiGilli/DatathonRioCuarto2024/assets/110350474/16147167-0552-40c9-a04a-d4338a47369f)# DatathonRioCuarto2024 - Córdoba - ARG (Desafio 2) - Proyecto ganador 🏆🎖
+# DatathonRioCuarto2024 - Córdoba - ARG (Desafio 2) - Proyecto ganador 🏆🎖
 ![1714069642723](https://github.com/GabiGilli/DatathonRioCuarto2024/assets/110350474/ce064070-487b-42c7-b03b-04b1e7976a96)
 
 ## SkillSet
-
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269](https://github.com/GabiGilli/DatathonRioCuarto2024/assets/110350474/351ad1b1-69c0-4304-8653-03f5507f6c35)!
 
 ## Información acerca del evento y desafío 2
 
@@ -33,6 +33,8 @@ Narrativa y Flujo de la Historia: Se evaluará si el informe cuenta una historia
 Impacto y Relevancia: Analizaremos el valor y la relevancia de los insights presentados en el informe, así como su capacidad para influir en la toma de decisiones.
 Originalidad y Creatividad: Tendrá como foco el uso innovador de características de Power BI y la creatividad en el diseño y la presentación de los datos.
 Interactividad: Observa la interactividad del informe, como filtros, segmentación, etc.
+
+### [Link al tablero]https://app.powerbi.com/view?r=eyJrIjoiOWNiYjAyZjAtZTQ2Ni00ZDIwLThlYzYtMmM0ZmVjMGRkYTY1IiwidCI6ImJlNjNiYWNjLWQxZjUtNDgyNS05ZmFmLWQ1Njk5NWRiOTk4OCIsImMiOjR9
 
 ## Dashboard 🏆🎖
 
